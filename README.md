@@ -13,7 +13,7 @@
 
 #### Will update the Team Project (with R, Spring Web MVC, ML/DL) on AWS when it's done!✨
 
-📫 How to reach me: ...
+📫 How to reach me:   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/pineyjay/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kjeong1991@gmail.com)
 
