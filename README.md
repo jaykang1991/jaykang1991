@@ -16,7 +16,7 @@
 📫 How to reach me:   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pineyjay/)](https://www.linkedin.com/in/pineyjay/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjeong1991@gmail.com)](mailto:kjeong1991@gmail.com)
-[![Notion Badge](https://img.icons8.com/ios/30/000000/book.png)](https://notion.so/pineyjay/)Notes
+[![Notion Badge](https://img.icons8.com/ios/30/000000/book.png)](https://notion.so/pineyjay/)Notion
 
 
 <!--
