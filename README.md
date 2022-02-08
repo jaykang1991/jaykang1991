@@ -5,9 +5,7 @@
 <li>Big Data Analysis with AI @ GlobalIT (6-month gov. funded program)</li>
 
 #### 🌱 I’m currently learning
-<li>Basic programming
- [![Java Badge](https://img.shields.io/twitter/url?label=Java&url=https%3A%2F%2Fpineyjay.notion.site%2FJava_GIT-53d137c090444360a239bead09d47184%2F)](https://pineyjay.notion.site/Java_GIT-53d137c090444360a239bead09d47184/)
-  [Python](https://pineyjay.notion.site/Study_Data-Science-33446ab2c187410393e45fb60dcc599d) / Pycharm, [SQL](https://pineyjay.notion.site/SQL_GIT-ff3ed80c0c334e0cbc26ae67e208af94))</li>
+<li>Basic programming : Java(https://pineyjay.notion.site/Java_GIT-53d137c090444360a239bead09d47184/), Python(https://pineyjay.notion.site/Study_Data-Science-33446ab2c187410393e45fb60dcc599d) / Pycharm, SQL(https://pineyjay.notion.site/SQL_GIT-ff3ed80c0c334e0cbc26ae67e208af94))</li>
 <li>DB related (Oracle sqldeveloper,  Hadoop)</li>
 <li>[Back-end Technique](https://pineyjay.notion.site/Spring-MVC-Pycharm-Crawling-33783cc3f09e4241a201a5d9178a0f63) (Java Spring Framework, Python Web Crawling)</li>
 <li>[Front-end Technique](https://pineyjay.notion.site/Web_GIT-2d8c3e40f2634f439514b79ddb59cb39) (HTML5, CSS3, JavaScript/jQuery, BootStrap(Twitter UI Framework))</li>
